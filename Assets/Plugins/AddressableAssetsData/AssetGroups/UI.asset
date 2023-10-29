@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cc6366208879b2542be57d408919369f
+  m_SerializeEntries:
+  - m_GUID: 0bec8baa8cb04124cbd33564bd524f68
+    m_Address: EndBattleUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5fe005d89bd79e46b659b1a8fe39054
+    m_Address: BattleUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ee2e9c4eacac9945ad0757ab2472de0
+    m_Address: DiceAimUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db877cc517887224a9231dceaf2e3a4d
+    m_Address: DiceUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd5a89a5f8244754eb8183c1891475e9
+    m_Address: UnitUIOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7e9fc673a1f5644bb385e5788dcbd24
+    m_Address: ArmorOverlayIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e3cb9b7c96b6294299bf4a3b3fd9bc3
+    m_Address: MeleeAttackOverlayIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02255d1028977de4ebbb8c261e6de8b3
+    m_Address: RangeAttackOverlayIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3506d1de341657f4c82526fe906060df
+    m_Address: CurtainUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f792a28310684c646ad0d95d7d05f2e2
+    m_Address: PermanentUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3917e10d2eecae64ab1c5c700bb9d90b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96906dccca4102140906b16046896c5f, type: 2}
+    - {fileID: 11400000, guid: 891db6e3456bfa44aa5841509b258b8d, type: 2}

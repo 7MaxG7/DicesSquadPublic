@@ -1,0 +1,66 @@
+{
+    "name": "InputControls",
+    "maps": [
+        {
+            "name": "BattleSelection",
+            "id": "391cd62c-9a16-4375-8864-d32af47ed7d5",
+            "actions": [
+                {
+                    "name": "InfoClick",
+                    "type": "Button",
+                    "id": "09cc28fe-aa22-43cf-8736-69e72966ec1b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "PointerPosition",
+                    "type": "Value",
+                    "id": "22d63f6d-2a81-48aa-90f0-02f6d26455e9",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "35266bed-f930-4ea8-bb03-1d5ea758f04d",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "Mouse & Keyboard",
+                    "action": "InfoClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "03e7b47c-fe1b-4986-b40f-da4727b29036",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Mouse & Keyboard",
+                    "action": "PointerPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Mouse & Keyboard",
+            "bindingGroup": "Mouse & Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

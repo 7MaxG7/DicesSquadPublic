@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1160f23c53b7479095ae93fd7a756fdd, type: 3}
+  m_Name: BattleUIAssetsDb
+  m_EditorClassIdentifier: 
+  _battleUIView:
+    m_AssetGUID: f5fe005d89bd79e46b659b1a8fe39054
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _battleEndUIView:
+    m_AssetGUID: 0bec8baa8cb04124cbd33564bd524f68
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _battleDicesUIView:
+    m_AssetGUID: a7640698f032ffa45ae608b2adfd440b
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _diceUIView:
+    m_AssetGUID: db877cc517887224a9231dceaf2e3a4d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _diceAimUIView:
+    m_AssetGUID: 1ee2e9c4eacac9945ad0757ab2472de0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _battleUnitsOverlayUIView:
+    m_AssetGUID: a1e5140bc9994d343a8f4c4166df43a6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _unitUIOverlayView:
+    m_AssetGUID: bd5a89a5f8244754eb8183c1891475e9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _diceOverlayFacets:
+  - _diceSide: 2
+    _overlayFacetIcon:
+      m_AssetGUID: 9e3cb9b7c96b6294299bf4a3b3fd9bc3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _diceSide: 3
+    _overlayFacetIcon:
+      m_AssetGUID: 02255d1028977de4ebbb8c261e6de8b3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _diceSide: 4
+    _overlayFacetIcon:
+      m_AssetGUID: f7e9fc673a1f5644bb385e5788dcbd24
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

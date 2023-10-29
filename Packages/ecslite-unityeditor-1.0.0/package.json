@@ -1,0 +1,20 @@
+{
+    "name": "com.leoecscommunity.ecslite.unityeditor",
+    "author": "LeoECSCommunity",
+    "displayName": "LeoECSCommunity Lite Unity Integration",
+    "description": "UnityEditor integration for LeoECSCommunity Lite.",
+    "unity": "2020.3",
+    "version": "1.0.0",
+    "keywords": [
+        "leoecs",
+        "ecs",
+        "performance",
+        "unity",
+        "integration"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LeoECSCommunity/ecslite-unityeditor.git"
+    }
+}
